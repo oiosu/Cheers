@@ -29,7 +29,7 @@
 
 ---
 
-### 프론트엔드 구현 JavaScript
+### ⭐ 프론트엔드 구현 JavaScript
 
 1. **위, 아래 스크롤 시 일정 값 이상 보다 커지면 요소를 화면에서 사라지도록 하기** 
 - window : 브라우저에 나타나나는 하나의 탭을 의미한다.
@@ -60,6 +60,46 @@
 ![image](https://github.com/oiosu/Cheers/assets/99783474/342c25ae-4b7c-4a8e-9dab-e159c1282f15)
 
 ![image](https://github.com/oiosu/Cheers/assets/99783474/69ebc14b-58bf-4955-a6f2-0f286942af20)
+
+
+---
+
+### 좋은 점만 가져올 수 있도록!
+
+> 벤치마킹하면서 분석한 것들
+
+![image](https://github.com/oiosu/Cheers/assets/99783474/aa607684-9f99-4ab8-9bf5-c5e76ec1d880)
+
+![image](https://github.com/oiosu/Cheers/assets/99783474/1df5e62f-1bed-45a0-a842-b13e823670e0)
+
+
+---
+
+### 오픈 그래프 카드와 트위터 카드 
+
+![image](https://github.com/oiosu/Cheers/assets/99783474/17bfab0d-97fe-41d1-a6b6-ca4c9c46304e)
+
+
+##### * 오픈그래프 프로토콜 : 어떠한 인터넷 웹 사이트의 HTML  문서에서 head -> meta 태그 중 "og:XXX"가 있는 태그들을 찾아내어 보여주는 프로토콜이다.
+
+##### ◾ 특징 : 만약 웹 사이트가 오픈 그래프 프로토콜을 지원한다면, 웹 사이트에 들어가기도 저에 뭐하는 사이트인지 알 수 있다. 
+
+
+---
+
+### Share 
+
+해당 SHARE 할 수 있는 소셜을 아이콘으로 배치를 해왔다면, 쉽게 할 수 있는 방법으로 이번 프로젝트때 활용 할 수 있었습니다.  사이트를 통해 모양과 소셜 종류를 직접 선택할 수 있습니다. 
+![image](https://github.com/oiosu/Cheers/assets/99783474/41693c45-4ab7-4a9c-bcfd-b91e4d11fe8c)
+
+
+---
+
+### UI/UX 어렵게 느껴질 때는 ‘토픽’을 활용하여 사용자들의 보기에 편한 동그라미 형태를 결정함 
+
+![image](https://github.com/oiosu/Cheers/assets/99783474/13ace397-f31b-452c-8dd9-e97bed7ebfd0)
+
+![image](https://github.com/oiosu/Cheers/assets/99783474/49d9826f-0639-48a0-b619-c75e09dc3162)
 
 
 
